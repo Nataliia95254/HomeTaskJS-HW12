@@ -1,0 +1,7 @@
+
+<p><input type="button" value="" id = "btn"></p>
+ 
+<script>
+let currentDate = new Date();
+document.getElementById("btn").value =  "Your vote is accepted: " + currentDate ;
+ </script>
